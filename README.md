@@ -4,13 +4,13 @@
 
 ## Contents
   * [Datasets](#datasets)
-  * [DL Models](#deep-learning)
+  * [DL-Models](#deep-learning)
   * [Agents](#agents)
   * [Simulations](#simulations)
 
 ## [Datasets](datasets)
 
-## [DL models](deep-learning)
+## [DL-models](deep-learning)
  1. LSTM
  2. GRU Seq2seq VAE
  3. Attention-is-all-you-Need
