@@ -20,17 +20,19 @@
 
 
 ## [Agents](agent)
- 1. Turtle-trading agent
+ 1. Turtle-trading agent (agent/01_Turtle)
  2. Moving-average agent
  3. Signal rolling agent
  4. Policy-gradient agent
  5. Q-learning agent
  6. Double Q-learning agent
- 7. Double Duel Recurrent Q-learning agent
- 8. Recurrent Curiosity Q-Learning agent
+ 7. Double Duel Q-learning agent
+ 8. Double Duel Recurrent Q-learning agent
+ 9. Recurrent Curiosity Q-Learning agent
  10. Duel Curiosity Q-learning agent
  11. Actor-critic agent
  12. Actor-critic Duel Recurrent agent
+ 13. Neuro Evolution with Novelty Search agent
 
 
 ## [Simulations](simulation)
