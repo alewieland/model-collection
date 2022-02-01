@@ -20,7 +20,7 @@
 
 
 ## [Agents](agent)
- 1. Turtle-trading agent (agent/01_Turtle)
+ 1. Turtle-trading agent (agent/01_Turtle.ipynb)
  2. Moving-average agent
  3. Signal rolling agent
  4. Policy-gradient agent
