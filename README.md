@@ -7,6 +7,7 @@
   * [DL Models](#deep-learning)
   * [Agents](#agents)
   * [Simulations](#simulations)
+  * [Forecasting](#forecasting)
 
 ## [Datasets](datasets)
 
@@ -20,7 +21,7 @@
 
 
 ## [Agents](agent)
- 1. Turtle-trading agent (agent/01_Turtle)
+ 1. Turtle-trading agent
  2. Moving-average agent
  3. Signal rolling agent
  4. Policy-gradient agent
@@ -42,6 +43,9 @@
 3. Drift Monte Carlo, [monte-carlo-drift.ipynb](simulation/monte-carlo-drift.ipynb)
 4. Multivariate Drift Monte Carlo BTC/USDT with Bitcurate sentiment, [multivariate-drift-monte-carlo.ipynb](simulation/multivariate-drift-monte-carlo.ipynb)
 5. Portfolio optimization, [portfolio-optimization.ipynb](simulation/portfolio-optimization.ipynb), inspired from https://pythonforfinance.net/2017/01/21/investment-portfolio-optimisation-with-python/
+
+
+## [Forecasting with DARTS](forecaszting)
 
 
 ---
