@@ -4,7 +4,7 @@
 
 ## Contents
   * [Datasets](#datasets)
-  * [DL Models](#DL models)
+  * [DL Models](#deep-learning)
   * [Agents](#agents)
   * [Simulations](#simulations)
 
