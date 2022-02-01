@@ -3,11 +3,12 @@
 
 
 ## Contents
-  * [Datasets](#Datasets)
-  * [DL Models](#models)
+  * [Datasets](#datasets)
+  * [DL Models](#DL models)
   * [Agents](#agents)
-  * [Data Explorations](#data-explorations)
   * [Simulations](#simulations)
+
+## [Datasets](datasets)
 
 ## [DL models](deep-learning)
  1. LSTM
